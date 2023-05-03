@@ -1,4 +1,4 @@
-# Matheus Tiburcio 👋
+# Matheus Tiburcio (☞ﾟヮﾟ)☞
 
 <!--
 **tiburci0/tiburci0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Snake Animation](https://github.com/tiburci0/tiburci0/blob/output/github-contribution-grid-snake.svg)
