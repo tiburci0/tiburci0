@@ -1,6 +1,6 @@
 # Matheus Tiburcio | Dev Front-End Júnior 💻
 
-- Em 2013, comecei a me interessar pelo desenvolvimento web devido ao jogo Habbo Hotel, onde através dele surgiu à curiosidade de entender como aquilo funcionava. Por causa disso, ingressei no forum <a href="https://www.power-pixel.net/" target="_blank" title="PowerPixel">Power-Pixel.net</a> onde consegui encontrar tudo aquilo que estava procurando para a criação do mesmo, e assim iniciei minha carreira como dev.
+- Em 2013, comecei a me interessar pelo desenvolvimento web devido ao jogo <a href="https://www.habbo.com.br/" target="_blank" title="Habbo Hotel">Habbo Hotel</a>, onde através dele surgiu à curiosidade de entender como aquilo funcionava. Por causa disso, ingressei no forum <a href="https://www.power-pixel.net/" target="_blank" title="PowerPixel">Power-Pixel.net</a> onde consegui encontrar tudo aquilo que estava procurando para a criação do mesmo, e assim iniciei minha carreira como dev.
 
 - Em 2019, iniciei o curso de Desenvolvimento de Sistemas pela ETEC de SAPOPEMBA, onde adquiri conhecimentos como: HTML5, CSS3, JavaScript e Banco de Dados (SQL) e em 2021 concluí o mesmo. Durante este período, iniciei alguns cursos onlines para complementar tudo aquilo que eu estava aprendendo, como: HTML5/CSS3 (Curso em Vídeo) e  CJRM (Curso de Javascript - Roger Melo). 
 
